@@ -1,0 +1,24 @@
+{
+  "name": "socketio-tute",
+  "version": "1.0.0",
+  "description": "socket-io tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamvivekchadhuvula/socket-io.git"
+  },
+  "author": "vivek chadhuvula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamvivekchadhuvula/socket-io/issues"
+  },
+  "homepage": "https://github.com/iamvivekchadhuvula/socket-io#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.2",
+    "socket-io": "^1.0.0"
+  }
+}
